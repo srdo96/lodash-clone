@@ -1,0 +1,22 @@
+{
+  "name": "lodash-clone",
+  "version": "1.0.0",
+  "description": "A JavaScript utility library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srdo96/lodash-clone.git"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "sakib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srdo96/lodash-clone/issues"
+  },
+  "homepage": "https://github.com/srdo96/lodash-clone#readme"
+}
