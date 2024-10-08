@@ -6,3 +6,4 @@ A utility library inspired by [Lodash](https://lodash.com/), written in JavaScri
 
 1. `chunk(array, size)` – Splits an array into chunks of a specified size.
 2. `compact(array)` – Removes falsy values from an array.
+3. `concat(array, ...values)` – Concatenates arrays and values.
